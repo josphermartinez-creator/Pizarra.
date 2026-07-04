@@ -1,2 +1,2 @@
-# Pizarra.
+# pizarra
 Estadísticas 
